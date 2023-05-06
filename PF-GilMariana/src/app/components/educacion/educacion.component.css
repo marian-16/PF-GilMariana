@@ -1,0 +1,23 @@
+.row{
+    padding: 30px;
+}
+div{
+    background: #D2ACD0;
+}
+
+@media (min-width: 576px){
+    #misestudios{
+        position: absolute;
+        width: 13%;
+        left: 0%;
+        top: 1050px;    
+    }
+}
+@media (max-width: 575px){
+    #misestudios{
+        position: absolute;
+        width: 20%;
+        left: 40%;
+        top: 1120px;       
+    }
+}
