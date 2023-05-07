@@ -1,3 +1,23 @@
+.row{
+    margin: 0%;
+}
+
+.container{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redessociales{
+    float:right;
+    margin-top: 15px;
+    margin-right: 0.5em;
+}
 #logoargp{
-    width: 170px;
+    width: 180px;
+}
+img{
+    width: 50px;
+}
+.btn{
+    border-width: medium;
 }
