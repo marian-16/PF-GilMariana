@@ -1,5 +1,5 @@
 .row{
-    padding: 10px;
+    padding: 5px;
 }
 div{
     background-color: #F8EBF6;
@@ -13,7 +13,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px black;
         left: 3%;
-        top: 550px;
+        top: 500px;
     }
 }
 @media (max-width: 575px){
@@ -23,13 +23,13 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px black;
         left: 30%;
-        top: 200px;
+        top: 135px;
     }
 }
 
 /*etiqueta nombree estilo*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
     margin-left: 10px;
 }
