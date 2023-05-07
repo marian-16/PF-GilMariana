@@ -1,5 +1,5 @@
 .row{
-    padding: 30px;
+    padding: 65px;
     margin: 0rem;
 }
 div{
@@ -10,15 +10,15 @@ div{
     #experiencialaboral{
         position: absolute;
         width: 13%;
-        left: 1%;
+        left: 20%;
         top: 830px;    
     }
 }
 @media (max-width: 575px){
     #experiencialaboral{
         position: absolute;
-        width: 20%;
-        left: 40%;
-        top: 770px;       
+        width: 35%;
+        left: 35%;
+        top: 630px;      
     }
 }
