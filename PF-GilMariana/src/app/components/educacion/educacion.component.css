@@ -1,5 +1,5 @@
 .row{
-    padding: 70px;
+    padding: 75px;
     margin: 0rem;
 }
 div{
@@ -10,8 +10,8 @@ div{
     #misestudios{
         position: absolute;
         width: 15%;
-        left: 19%;
-        top: 1200px;    
+        left: 20%;
+        top: 1230px;    
     }
 }
 @media (max-width: 575px){
